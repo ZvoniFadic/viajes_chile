@@ -1,0 +1,77 @@
+/* body */
+
+body {
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+/* nav */
+
+nav {
+    background-color: transparent;
+}
+
+.navbar-brand span {
+    font-size: 1.3em;
+}
+.navbar-brand img {
+    width: 2.5em;
+}
+
+
+/* quienes somos */
+
+#quienes-somos {
+    background-color: black;
+}
+
+#quienes-somos hr {
+    width: 92%;
+    height: 0.02em;
+}
+
+#iconos-qs {
+    background-color: #17a3b8;
+    margin-bottom: 0.8em;
+}
+
+
+/* destacados */
+
+#destacados {
+    background-color: black;
+}
+
+#destacados hr {
+    width: 92%;
+    height: 0.02em;
+}
+
+#destacados .card {
+    background-color: #17a3b8;
+}
+
+
+/* contacto */
+
+#contacto {
+    background-color: black;
+}
+
+#contacto hr {
+    width: 92%;
+    height: 0.02em;
+}
+
+
+/* footer */
+
+#footer {
+    background-color: #17a3b8;
+}
+
+#footer a {
+    color: white;
+    text-decoration: none;
+}
